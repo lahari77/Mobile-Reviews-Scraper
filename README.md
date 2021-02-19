@@ -1,1 +1,1 @@
-### Link : https://mobile-reviews-scraper.herokuapp.com/
+### App Link : https://mobile-reviews-scraper.herokuapp.com/
